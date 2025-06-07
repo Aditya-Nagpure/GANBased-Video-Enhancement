@@ -14,5 +14,4 @@ Useful when resources are limited or speed is important
 
 Output:
 
-
-![image](https://github.com/user-attachments/assets/89ab29c7-3224-4e68-81f9-5e2fe8bb8a9e)
+![image](https://github.com/user-attachments/assets/080ad715-84bb-4933-9821-4787f6d5b65b)
